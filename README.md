@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A beautiful, natural, and handmade-feeling portfolio website showcasing my work, skills, and journey as an AI Engineer and Machine Learning enthusiast.
+A  portfolio website showcasing my work, skills, and journey as Undergraduate student and interest in software and Tech feilds and Machine Learning enthusiast.
 
 ## Features
 
@@ -118,3 +118,4 @@ This portfolio is created for personal use. Feel free to use it as inspiration f
 ---
 
 **Built with care and attention to detail** ✨
+
